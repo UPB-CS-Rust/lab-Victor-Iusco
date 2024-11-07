@@ -1,4 +1,3 @@
-
 /// While taking a first stab at programs, using panic!() is a quick-and-dirty way to do error handling; but panic!() has the obvious drawback
 /// that it is all-or-nothing: you cannot recover from it (in general).
 // Consider this "interactive hello world" (that is a bit fussy about what is a valid name), where the intent is that the program repeats

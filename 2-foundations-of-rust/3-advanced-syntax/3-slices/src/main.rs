@@ -1,4 +1,3 @@
-
 // This a unfinished implementation of the well-known merge sort algorithm
 //
 // 1. Fix the language problems in the function merge

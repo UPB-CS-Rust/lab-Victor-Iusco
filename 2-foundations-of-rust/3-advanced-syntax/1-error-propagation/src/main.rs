@@ -1,4 +1,3 @@
-
 // This is a very basic rust implementation that approximates the UNIX 'wc' program for text-files; for example, the file you are reading now
 // has 50 lines, 303 words, and 2076 bytes, which you can verify by running cargo run -- src/main.rs
 //
